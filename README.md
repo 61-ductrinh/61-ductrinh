@@ -1,3 +1,7 @@
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
+
+
 ### Hi there, I'm [Pete](https://github.com/61-ductrinh) 👋
 
 I stated learning this for 2 days and really excited. 
