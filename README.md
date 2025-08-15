@@ -52,8 +52,10 @@ I stated learning this for 2 days and really excited.
 
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/61.cudhnahnirt/)
 </p>
-
-<!--
+## My resume:
+<p align = "center">
+  https://github.com/61-ductrinh/trinhanhduc.github.io.git
+  
 **themlphdstudent/themlphdstudent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
